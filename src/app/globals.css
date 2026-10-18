@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    /* Keeps anchored/focused content clear of the sticky glass navbar */
+    scroll-padding-top: 6.5rem;
+  }
+  body {
+    @apply bg-[#F6F8FE] font-sans text-navy-900 antialiased;
+  }
+  :focus-visible {
+    @apply outline-none ring-2 ring-ice-500 ring-offset-2;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-semibold transition-colors duration-200 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply btn bg-cta-gradient text-white shadow-cta transition-[filter,box-shadow] hover:brightness-110;
+  }
+  .btn-warm {
+    @apply btn bg-ember-500 text-white hover:bg-ember-600;
+  }
+  .btn-dark {
+    @apply btn bg-navy-900 text-white hover:bg-navy-800;
+  }
+  .btn-outline {
+    @apply btn border border-white bg-white/85 text-navy-900 shadow-glass backdrop-blur hover:bg-white;
+  }
+  .glass {
+    @apply border border-white/80 bg-white/75 shadow-glass ring-1 ring-navy-900/[0.04] backdrop-blur-md;
+  }
+  .panel {
+    @apply rounded-2xl border border-navy-900/[0.07] bg-white shadow-card;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold;
+  }
+  .section {
+    @apply container py-8 md:py-12;
+  }
+}
+
+@layer utilities {
+  .scrollbar-none {
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}

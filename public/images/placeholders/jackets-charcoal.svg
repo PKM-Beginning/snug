@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="jackets placeholder">
+  <ellipse cx="200" cy="440" rx="130" ry="14" fill="#0B1B3F" opacity=".06"/>
+  <g>
+    <path d="M150 120 L200 108 L250 120 L318 158 L342 330 L304 338 L288 222 L288 402 L112 402 L112 222 L96 338 L58 330 L82 158 Z" fill="#4A5163"/>
+    <path d="M150 120 L200 150 L250 120 L240 104 L200 118 L160 104 Z" fill="#323848"/>
+    <path d="M112 178 Q200 188 288 178" stroke="#323848" stroke-width="3" fill="none" opacity=".55"/><path d="M112 228 Q200 238 288 228" stroke="#323848" stroke-width="3" fill="none" opacity=".55"/><path d="M112 278 Q200 288 288 278" stroke="#323848" stroke-width="3" fill="none" opacity=".55"/><path d="M112 328 Q200 338 288 328" stroke="#323848" stroke-width="3" fill="none" opacity=".55"/><path d="M112 372 Q200 382 288 372" stroke="#323848" stroke-width="3" fill="none" opacity=".55"/>
+    <line x1="200" y1="150" x2="200" y2="402" stroke="#323848" stroke-width="4"/></g>
+</svg>

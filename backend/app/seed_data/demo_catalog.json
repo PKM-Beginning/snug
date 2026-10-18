@@ -1,0 +1,809 @@
+[
+ {
+  "slug": "northvale-mens-puffer-jacket",
+  "title": "Men's Quilted Puffer Jacket",
+  "brand": "Northvale",
+  "category": "jackets",
+  "gender": "men",
+  "image_url": "/images/placeholders/jackets-navy.svg",
+  "description": "A lightweight quilted puffer with synthetic down fill, a stand collar and a water-resistant shell. Packs into its own pocket for travel.",
+  "highlights": [
+   "Synthetic down fill",
+   "Water-resistant shell",
+   "Packable into pocket",
+   "Two zip hand pockets"
+  ],
+  "winter_score": 96,
+  "rating": 4.4,
+  "review_count": 2318,
+  "mrp": 3199,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 1399,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 1299,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "myntra",
+    "price": 1499,
+    "availability": "low_stock"
+   }
+  ]
+ },
+ {
+  "slug": "polar-thread-womens-long-parka",
+  "title": "Women's Hooded Long Parka",
+  "brand": "Polar Thread",
+  "category": "jackets",
+  "gender": "women",
+  "image_url": "/images/placeholders/jackets-sand.svg",
+  "description": "A knee-length parka with a faux-fur trimmed hood, inner storm cuffs and a two-way zip. Built for properly cold mornings.",
+  "highlights": [
+   "Faux-fur trimmed hood",
+   "Two-way zip",
+   "Inner storm cuffs",
+   "Knee length"
+  ],
+  "winter_score": 98,
+  "rating": 4.5,
+  "review_count": 1184,
+  "mrp": 4999,
+  "offers": [
+   {
+    "merchant": "myntra",
+    "price": 2299,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "amazon",
+    "price": 2449,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 2399,
+    "availability": "out_of_stock"
+   }
+  ]
+ },
+ {
+  "slug": "urban-fjord-mens-bomber",
+  "title": "Men's Padded Bomber Jacket",
+  "brand": "Urban Fjord",
+  "category": "jackets",
+  "gender": "men",
+  "image_url": "/images/placeholders/jackets-charcoal.svg",
+  "description": "A classic bomber silhouette with light padding, ribbed cuffs and hem, and a satin-finish lining.",
+  "highlights": [
+   "Light padding",
+   "Ribbed collar, cuffs and hem",
+   "Satin-finish lining"
+  ],
+  "winter_score": 84,
+  "rating": 4.2,
+  "review_count": 864,
+  "mrp": 2999,
+  "offers": [
+   {
+    "merchant": "flipkart",
+    "price": 1349,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "amazon",
+    "price": 1399,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "kestrel-womens-cropped-puffer",
+  "title": "Women's Cropped Puffer Jacket",
+  "brand": "Kestrel & Co",
+  "category": "jackets",
+  "gender": "women",
+  "image_url": "/images/placeholders/jackets-lavender.svg",
+  "description": "A boxy cropped puffer with a high funnel neck and glossy finish. Pairs well with high-waisted denim.",
+  "highlights": [
+   "Funnel neck",
+   "Boxy cropped fit",
+   "Glossy finish"
+  ],
+  "winter_score": 88,
+  "rating": 4.3,
+  "review_count": 642,
+  "mrp": 2799,
+  "offers": [
+   {
+    "merchant": "myntra",
+    "price": 1259,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 1319,
+    "availability": "low_stock"
+   }
+  ]
+ },
+ {
+  "slug": "alpine-row-kids-hooded-jacket",
+  "title": "Kids' Hooded Winter Jacket",
+  "brand": "Alpine Row",
+  "category": "jackets",
+  "gender": "kids",
+  "image_url": "/images/placeholders/jackets-rust.svg",
+  "description": "A warm, easy-zip hooded jacket for kids with fleece lining and reflective trims for school runs.",
+  "highlights": [
+   "Fleece lining",
+   "Reflective trims",
+   "Easy-grip zip"
+  ],
+  "winter_score": 92,
+  "rating": 4.6,
+  "review_count": 931,
+  "mrp": 1999,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 899,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 949,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "myntra",
+    "price": 999,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "driftline-mens-windcheater",
+  "title": "Men's Sherpa-Lined Windcheater",
+  "brand": "Driftline",
+  "category": "jackets",
+  "gender": "men",
+  "image_url": "/images/placeholders/jackets-ice.svg",
+  "description": "A wind-resistant shell with soft sherpa lining in the body and an adjustable hood.",
+  "highlights": [
+   "Sherpa-lined body",
+   "Adjustable hood",
+   "Wind-resistant"
+  ],
+  "winter_score": 79,
+  "rating": 4.1,
+  "review_count": 417,
+  "mrp": 2499,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 1199,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "hearth-unisex-fleece-hoodie",
+  "title": "Unisex Brushed Fleece Hoodie",
+  "brand": "Hearth",
+  "category": "hoodies",
+  "gender": "unisex",
+  "image_url": "/images/placeholders/hoodies-lavender.svg",
+  "description": "A heavyweight hoodie with brushed fleece inside, a lined hood and a roomy kangaroo pocket.",
+  "highlights": [
+   "Brushed fleece interior",
+   "Lined hood",
+   "Relaxed fit"
+  ],
+  "winter_score": 82,
+  "rating": 4.5,
+  "review_count": 3402,
+  "mrp": 1799,
+  "offers": [
+   {
+    "merchant": "flipkart",
+    "price": 749,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "amazon",
+    "price": 799,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "myntra",
+    "price": 829,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "urban-fjord-mens-zip-hoodie",
+  "title": "Men's Zip-Through Hoodie",
+  "brand": "Urban Fjord",
+  "category": "hoodies",
+  "gender": "men",
+  "image_url": "/images/placeholders/hoodies-charcoal.svg",
+  "description": "A full-zip hoodie in midweight cotton-blend fleece with ribbed trims. An easy layer under a jacket.",
+  "highlights": [
+   "Full zip",
+   "Cotton-blend fleece",
+   "Ribbed trims"
+  ],
+  "winter_score": 74,
+  "rating": 4.2,
+  "review_count": 1210,
+  "mrp": 1599,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 679,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 699,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "kestrel-womens-oversized-hoodie",
+  "title": "Women's Oversized Hoodie",
+  "brand": "Kestrel & Co",
+  "category": "hoodies",
+  "gender": "women",
+  "image_url": "/images/placeholders/hoodies-sand.svg",
+  "description": "A drop-shoulder oversized hoodie with a soft peached finish and dropped hem.",
+  "highlights": [
+   "Drop shoulders",
+   "Peached finish",
+   "Oversized fit"
+  ],
+  "winter_score": 76,
+  "rating": 4.4,
+  "review_count": 1876,
+  "mrp": 1499,
+  "offers": [
+   {
+    "merchant": "myntra",
+    "price": 599,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 649,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "alpine-row-kids-sherpa-hoodie",
+  "title": "Kids' Sherpa Hoodie",
+  "brand": "Alpine Row",
+  "category": "hoodies",
+  "gender": "kids",
+  "image_url": "/images/placeholders/hoodies-ice.svg",
+  "description": "A super-soft sherpa hoodie for kids with a snap-front pocket.",
+  "highlights": [
+   "Sherpa fabric",
+   "Snap pocket",
+   "Soft lined hood"
+  ],
+  "winter_score": 80,
+  "rating": 4.5,
+  "review_count": 522,
+  "mrp": 1299,
+  "offers": [
+   {
+    "merchant": "flipkart",
+    "price": 549,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "myntra",
+    "price": 579,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "cinder-knit-mens-cable-sweater",
+  "title": "Men's Cable-Knit Sweater",
+  "brand": "Cinder Knit",
+  "category": "sweaters",
+  "gender": "men",
+  "image_url": "/images/placeholders/sweaters-sand.svg",
+  "description": "A chunky cable-knit crewneck in an acrylic-wool blend with ribbed edges.",
+  "highlights": [
+   "Acrylic-wool blend",
+   "Chunky cable knit",
+   "Ribbed edges"
+  ],
+  "winter_score": 86,
+  "rating": 4.3,
+  "review_count": 988,
+  "mrp": 2199,
+  "offers": [
+   {
+    "merchant": "myntra",
+    "price": 949,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "amazon",
+    "price": 999,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 1029,
+    "availability": "low_stock"
+   }
+  ]
+ },
+ {
+  "slug": "cinder-knit-womens-turtleneck",
+  "title": "Women's Ribbed Turtleneck",
+  "brand": "Cinder Knit",
+  "category": "sweaters",
+  "gender": "women",
+  "image_url": "/images/placeholders/sweaters-rust.svg",
+  "description": "A slim ribbed turtleneck that works on its own or as a base layer under coats.",
+  "highlights": [
+   "Slim rib knit",
+   "Fold-over neck",
+   "Layer-friendly"
+  ],
+  "winter_score": 81,
+  "rating": 4.4,
+  "review_count": 1542,
+  "mrp": 1399,
+  "offers": [
+   {
+    "merchant": "myntra",
+    "price": 579,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 599,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "hearth-womens-cardigan",
+  "title": "Women's Button Cardigan",
+  "brand": "Hearth",
+  "category": "sweaters",
+  "gender": "women",
+  "image_url": "/images/placeholders/sweaters-lavender.svg",
+  "description": "A relaxed V-neck cardigan with tortoiseshell-look buttons and patch pockets.",
+  "highlights": [
+   "V-neck",
+   "Patch pockets",
+   "Relaxed fit"
+  ],
+  "winter_score": 72,
+  "rating": 4.2,
+  "review_count": 703,
+  "mrp": 1899,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 899,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "myntra",
+    "price": 929,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "northvale-mens-half-zip",
+  "title": "Men's Half-Zip Pullover Sweater",
+  "brand": "Northvale",
+  "category": "sweaters",
+  "gender": "men",
+  "image_url": "/images/placeholders/sweaters-navy.svg",
+  "description": "A smart half-zip knit with a mock neck — sharp enough for the office, warm enough for the commute.",
+  "highlights": [
+   "Half zip",
+   "Mock neck",
+   "Fine-gauge knit"
+  ],
+  "winter_score": 77,
+  "rating": 4.1,
+  "review_count": 389,
+  "mrp": 1999,
+  "offers": [
+   {
+    "merchant": "flipkart",
+    "price": 1099,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "driftline-unisex-crew-sweatshirt",
+  "title": "Unisex Heavyweight Crew Sweatshirt",
+  "brand": "Driftline",
+  "category": "sweatshirts",
+  "gender": "unisex",
+  "image_url": "/images/placeholders/sweatshirts-ice.svg",
+  "description": "A 340 GSM crewneck with a brushed interior and a boxy, modern fit.",
+  "highlights": [
+   "340 GSM cotton blend",
+   "Brushed interior",
+   "Boxy fit"
+  ],
+  "winter_score": 70,
+  "rating": 4.4,
+  "review_count": 2780,
+  "mrp": 1199,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 529,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 499,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "myntra",
+    "price": 549,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "kestrel-womens-graphic-sweatshirt",
+  "title": "Women's Embroidered Sweatshirt",
+  "brand": "Kestrel & Co",
+  "category": "sweatshirts",
+  "gender": "women",
+  "image_url": "/images/placeholders/sweatshirts-lavender.svg",
+  "description": "A soft crewneck with tonal chest embroidery and a slightly cropped length.",
+  "highlights": [
+   "Tonal embroidery",
+   "Slightly cropped",
+   "Soft fleece"
+  ],
+  "winter_score": 68,
+  "rating": 4.3,
+  "review_count": 912,
+  "mrp": 1399,
+  "offers": [
+   {
+    "merchant": "myntra",
+    "price": 619,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 659,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "urban-fjord-mens-colourblock-sweatshirt",
+  "title": "Men's Colour-Block Sweatshirt",
+  "brand": "Urban Fjord",
+  "category": "sweatshirts",
+  "gender": "men",
+  "image_url": "/images/placeholders/sweatshirts-navy.svg",
+  "description": "A crewneck with contrast panels across the chest and sleeves.",
+  "highlights": [
+   "Contrast panels",
+   "Ribbed hem",
+   "Regular fit"
+  ],
+  "winter_score": 65,
+  "rating": 4,
+  "review_count": 455,
+  "mrp": 1499,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 599,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 629,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "alpine-row-kids-crew-sweatshirt",
+  "title": "Kids' Printed Sweatshirt",
+  "brand": "Alpine Row",
+  "category": "sweatshirts",
+  "gender": "kids",
+  "image_url": "/images/placeholders/sweatshirts-rust.svg",
+  "description": "A cosy printed crewneck for kids, pre-washed for softness.",
+  "highlights": [
+   "Pre-washed",
+   "Soft print",
+   "Easy care"
+  ],
+  "winter_score": 66,
+  "rating": 4.5,
+  "review_count": 318,
+  "mrp": 899,
+  "offers": [
+   {
+    "merchant": "flipkart",
+    "price": 379,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "hearth-unisex-ribbed-beanie",
+  "title": "Unisex Ribbed Knit Beanie",
+  "brand": "Hearth",
+  "category": "accessories",
+  "gender": "unisex",
+  "image_url": "/images/placeholders/accessories-rust.svg",
+  "description": "A double-layer ribbed beanie with a fold-up cuff. Fits most head sizes.",
+  "highlights": [
+   "Double layer",
+   "Fold-up cuff",
+   "One size"
+  ],
+  "winter_score": 90,
+  "rating": 4.6,
+  "review_count": 4120,
+  "mrp": 549,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 249,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 229,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "myntra",
+    "price": 269,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "polar-thread-wool-blend-scarf",
+  "title": "Wool-Blend Checked Scarf",
+  "brand": "Polar Thread",
+  "category": "accessories",
+  "gender": "unisex",
+  "image_url": "/images/placeholders/accessories-navy.svg",
+  "description": "A long, soft checked scarf with fringed ends in a wool-acrylic blend.",
+  "highlights": [
+   "Wool-acrylic blend",
+   "Fringed ends",
+   "Long length"
+  ],
+  "winter_score": 85,
+  "rating": 4.4,
+  "review_count": 1305,
+  "mrp": 999,
+  "offers": [
+   {
+    "merchant": "myntra",
+    "price": 399,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "amazon",
+    "price": 429,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "driftline-touchscreen-gloves",
+  "title": "Touchscreen Thermal Gloves",
+  "brand": "Driftline",
+  "category": "accessories",
+  "gender": "unisex",
+  "image_url": "/images/placeholders/accessories-charcoal.svg",
+  "description": "Fleece-lined knit gloves with conductive fingertips so you can use your phone outdoors.",
+  "highlights": [
+   "Touchscreen fingertips",
+   "Fleece lining",
+   "Grip palm"
+  ],
+  "winter_score": 87,
+  "rating": 4.1,
+  "review_count": 2210,
+  "mrp": 499,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 199,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 219,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "northvale-thermal-set",
+  "title": "Men's Thermal Innerwear Set",
+  "brand": "Northvale",
+  "category": "accessories",
+  "gender": "men",
+  "image_url": "/images/placeholders/accessories-ice.svg",
+  "description": "A thin, warm thermal top and bottom set designed to sit invisibly under everyday clothes.",
+  "highlights": [
+   "Top + bottom set",
+   "Thin and warm",
+   "Stretch fit"
+  ],
+  "winter_score": 93,
+  "rating": 4.3,
+  "review_count": 1689,
+  "mrp": 1199,
+  "offers": [
+   {
+    "merchant": "flipkart",
+    "price": 549,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "amazon",
+    "price": 579,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "myntra",
+    "price": 599,
+    "availability": "out_of_stock"
+   }
+  ]
+ },
+ {
+  "slug": "urban-fjord-mens-chelsea-boots",
+  "title": "Men's Suede Chelsea Boots",
+  "brand": "Urban Fjord",
+  "category": "footwear",
+  "gender": "men",
+  "image_url": "/images/placeholders/footwear-sand.svg",
+  "description": "Faux-suede Chelsea boots with elastic side panels and a grippy rubber sole.",
+  "highlights": [
+   "Elastic side panels",
+   "Rubber sole",
+   "Pull tab"
+  ],
+  "winter_score": 78,
+  "rating": 4.2,
+  "review_count": 744,
+  "mrp": 3999,
+  "offers": [
+   {
+    "merchant": "myntra",
+    "price": 1799,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "amazon",
+    "price": 1899,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 1849,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "polar-thread-womens-ankle-boots",
+  "title": "Women's Faux-Fur Lined Ankle Boots",
+  "brand": "Polar Thread",
+  "category": "footwear",
+  "gender": "women",
+  "image_url": "/images/placeholders/footwear-charcoal.svg",
+  "description": "Lace-up ankle boots with a warm faux-fur lining and a chunky lug sole.",
+  "highlights": [
+   "Faux-fur lining",
+   "Lug sole",
+   "Lace-up"
+  ],
+  "winter_score": 91,
+  "rating": 4.4,
+  "review_count": 1022,
+  "mrp": 3499,
+  "offers": [
+   {
+    "merchant": "myntra",
+    "price": 1599,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 1649,
+    "availability": "low_stock"
+   }
+  ]
+ },
+ {
+  "slug": "alpine-row-kids-snow-boots",
+  "title": "Kids' Insulated Snow Boots",
+  "brand": "Alpine Row",
+  "category": "footwear",
+  "gender": "kids",
+  "image_url": "/images/placeholders/footwear-navy.svg",
+  "description": "Insulated, easy-on boots with a hook-and-loop strap and a non-slip sole.",
+  "highlights": [
+   "Insulated",
+   "Hook-and-loop strap",
+   "Non-slip sole"
+  ],
+  "winter_score": 95,
+  "rating": 4.5,
+  "review_count": 287,
+  "mrp": 2299,
+  "offers": [
+   {
+    "merchant": "amazon",
+    "price": 1099,
+    "availability": "in_stock"
+   },
+   {
+    "merchant": "flipkart",
+    "price": 1149,
+    "availability": "in_stock"
+   }
+  ]
+ },
+ {
+  "slug": "driftline-unisex-high-top-sneakers",
+  "title": "Unisex Warm-Lined High-Top Sneakers",
+  "brand": "Driftline",
+  "category": "footwear",
+  "gender": "unisex",
+  "image_url": "/images/placeholders/footwear-ice.svg",
+  "description": "Canvas-look high-tops with a soft fleece lining for cold-weather wear.",
+  "highlights": [
+   "Fleece lining",
+   "Padded collar",
+   "Rubber cupsole"
+  ],
+  "winter_score": 73,
+  "rating": 4,
+  "review_count": 596,
+  "mrp": 2799,
+  "offers": [
+   {
+    "merchant": "flipkart",
+    "price": 1299,
+    "availability": "in_stock"
+   }
+  ]
+ }
+]

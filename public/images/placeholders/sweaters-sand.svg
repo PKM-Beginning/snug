@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="sweaters placeholder">
+  <ellipse cx="200" cy="440" rx="130" ry="14" fill="#0B1B3F" opacity=".06"/>
+  <g>
+    <path d="M155 120 L245 120 L318 158 L340 330 L302 338 L288 226 L288 402 L112 402 L112 226 L98 338 L60 330 L82 158 Z" fill="#D9BC94"/>
+    <path d="M160 120 Q200 156 240 120" stroke="#B8956A" stroke-width="10" fill="none"/>
+    <path d="M118 200 L126 200 L142 210 L158 200 L174 210 L190 200 L206 210 L222 200 L238 210 L254 200 L270 210 L286 200" stroke="#B8956A" stroke-width="3" fill="none" opacity=".6"/><path d="M118 250 L126 250 L142 260 L158 250 L174 260 L190 250 L206 260 L222 250 L238 260 L254 250 L270 260 L286 250" stroke="#B8956A" stroke-width="3" fill="none" opacity=".6"/><path d="M118 300 L126 300 L142 310 L158 300 L174 310 L190 300 L206 310 L222 300 L238 310 L254 300 L270 310 L286 300" stroke="#B8956A" stroke-width="3" fill="none" opacity=".6"/>
+    <rect x="112" y="382" width="176" height="20" fill="#B8956A" opacity=".7"/></g>
+</svg>

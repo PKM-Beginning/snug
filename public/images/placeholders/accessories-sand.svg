@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="accessories placeholder">
+  <ellipse cx="200" cy="440" rx="130" ry="14" fill="#0B1B3F" opacity=".06"/>
+  <g>
+    <path d="M120 250 Q120 120 200 116 Q280 120 280 250 Z" fill="#D9BC94"/>
+    <rect x="110" y="236" width="180" height="44" rx="12" fill="#B8956A"/>
+    <line x1="140" y1="140" x2="140" y2="236" stroke="#B8956A" stroke-width="3" opacity=".45"/><line x1="170" y1="140" x2="170" y2="236" stroke="#B8956A" stroke-width="3" opacity=".45"/><line x1="200" y1="140" x2="200" y2="236" stroke="#B8956A" stroke-width="3" opacity=".45"/><line x1="230" y1="140" x2="230" y2="236" stroke="#B8956A" stroke-width="3" opacity=".45"/><line x1="260" y1="140" x2="260" y2="236" stroke="#B8956A" stroke-width="3" opacity=".45"/>
+    <circle cx="200" cy="104" r="26" fill="#B8956A"/>
+    <path d="M130 318 L270 318 L262 360 L236 360 L236 410 L208 410 L208 360 L138 360 Z" fill="#D9BC94" opacity=".85"/>
+    <line x1="218" y1="410" x2="218" y2="426" stroke="#B8956A" stroke-width="3"/><line x1="228" y1="410" x2="228" y2="426" stroke="#B8956A" stroke-width="3"/></g>
+</svg>

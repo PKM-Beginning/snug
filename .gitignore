@@ -1,0 +1,64 @@
+# ── Dependencies & build output ──────────────────────────────────────────
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+.vercel/
+
+# ── Environment files & secrets (only the *.example templates are tracked) ──
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+secrets/
+credentials*.json
+service-account*.json
+
+# ── Python ───────────────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ── Local databases & logs ──────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+*.log
+npm-debug.log*
+
+# ── OS / editor ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+node_modules/
+.next/
+backend/.venv/
+.venv/
+
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+__pycache__/
+*.pyc

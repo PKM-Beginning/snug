@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="sweatshirts placeholder">
+  <ellipse cx="200" cy="440" rx="130" ry="14" fill="#0B1B3F" opacity=".06"/>
+  <g>
+    <path d="M155 120 L245 120 L318 158 L340 330 L302 338 L288 226 L288 402 L112 402 L112 226 L98 338 L60 330 L82 158 Z" fill="#B9A8EE"/>
+    <path d="M160 120 Q200 150 240 120" stroke="#8E78DB" stroke-width="8" fill="none"/>
+    <circle cx="200" cy="230" r="26" fill="none" stroke="#fff" stroke-width="5" opacity=".85"/>
+    <path d="M200 214 L200 246 M186 222 L214 238 M214 222 L186 238" stroke="#fff" stroke-width="3" opacity=".85"/>
+    <rect x="112" y="384" width="176" height="18" fill="#8E78DB" opacity=".6"/></g>
+</svg>

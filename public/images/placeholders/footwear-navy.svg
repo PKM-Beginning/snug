@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="footwear placeholder">
+  <ellipse cx="200" cy="440" rx="130" ry="14" fill="#0B1B3F" opacity=".06"/>
+  <g>
+    <path d="M140 130 L230 130 L234 280 Q300 290 330 320 Q342 340 330 360 L100 360 Q92 300 120 280 Z" fill="#2C4E92"/>
+    <rect x="96" y="356" width="242" height="26" rx="8" fill="#1D3A76"/>
+    <path d="M140 130 L230 130 L230 156 L140 156 Z" fill="#1D3A76" opacity=".6"/>
+    <line x1="196" y1="190" x2="228" y2="194" stroke="#fff" stroke-width="4" opacity=".8"/><line x1="196" y1="220" x2="228" y2="224" stroke="#fff" stroke-width="4" opacity=".8"/><line x1="196" y1="250" x2="228" y2="254" stroke="#fff" stroke-width="4" opacity=".8"/></g>
+</svg>

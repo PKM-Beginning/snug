@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="hoodies placeholder">
+  <ellipse cx="200" cy="440" rx="130" ry="14" fill="#0B1B3F" opacity=".06"/>
+  <g>
+    <path d="M150 128 L250 128 L318 162 L340 330 L302 338 L288 230 L288 402 L112 402 L112 230 L98 338 L60 330 L82 162 Z" fill="#B9A8EE"/>
+    <path d="M150 132 Q150 70 200 66 Q250 70 250 132 Q225 160 200 160 Q175 160 150 132 Z" fill="#8E78DB"/>
+    <path d="M168 132 Q170 92 200 90 Q230 92 232 132 Q216 146 200 146 Q184 146 168 132 Z" fill="#B9A8EE" opacity=".6"/>
+    <rect x="148" y="300" width="104" height="52" rx="10" fill="#8E78DB" opacity=".5"/>
+    <line x1="188" y1="160" x2="186" y2="214" stroke="#fff" stroke-width="3" opacity=".8"/>
+    <line x1="212" y1="160" x2="214" y2="214" stroke="#fff" stroke-width="3" opacity=".8"/></g>
+</svg>

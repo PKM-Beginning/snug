@@ -1,0 +1,6 @@
+# Frontend-only deployment: the FastAPI backend is not deployed to Vercel.
+backend/
+scripts/check-images.mjs
+**/__pycache__/
+.venv/
+*.db
