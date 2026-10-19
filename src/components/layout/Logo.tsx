@@ -10,9 +10,11 @@ export function Logo({ showTagline = false }: { showTagline?: boolean }) {
         <Snowflake className="relative h-5 w-5 drop-shadow-[0_1px_1px_rgba(11,27,63,0.25)]" strokeWidth={2.25} aria-hidden />
       </span>
       <span className="leading-none">
-        <span className="block bg-gradient-to-r from-navy-900 via-navy-700 to-ice-500 bg-clip-text font-display text-[22px] font-bold tracking-tight text-transparent">
+        
+        <span className="inline-block bg-gradient-to-r from-navy-900 via-navy-700 to-ice-500 bg-clip-text font-display text-[22px] font-bold leading-[1.3] tracking-tight text-transparent pb-1">
           Snug
         </span>
+
         {showTagline && <span className="mt-1 block text-[11px] font-medium text-navy-900/65">Stay Warm. Spend Less.</span>}
       </span>
     </Link>

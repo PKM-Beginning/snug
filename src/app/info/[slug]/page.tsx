@@ -73,57 +73,126 @@ const PAGES: Record<string, InfoPageContent> = {
       },
     ],
   },
-  "affiliate-disclosure": {
-    title: "Affiliate disclosure",
-    description: "How Snug will be funded, and where things stand today.",
-    interim: true,
-    sections: [
-      {
-        heading: "Today",
-        paragraphs: [
-          "Snug is not currently a member of any affiliate programme. No links on this site earn a commission, and Buy buttons are disabled. Marketplace names appear only to show how comparisons will work; Snug is not affiliated with, sponsored by or endorsed by those marketplaces.",
-        ],
-      },
-      {
-        heading: "In future",
-        paragraphs: [
-          "Snug plans to fund itself through affiliate programmes. If you buy through a Snug link, the store may pay Snug a commission. This will not change the price you pay, and Snug will continue to highlight the lowest available price whichever store offers it.",
-          "Any statement an affiliate programme requires will be added to this page before its links go live.",
-        ],
-      },
-    ],
-  },
-  privacy: {
-    title: "Privacy notice",
-    description: "What the Snug preview does — and doesn't do — with your data.",
-    interim: true,
-    sections: [
-      {
-        heading: "What we collect",
-        paragraphs: [
-          "The preview has no accounts, sign-up or contact forms, and it does not use analytics, advertising trackers or cookies of its own.",
-        ],
-      },
-      {
-        heading: "Your wishlist",
-        paragraphs: [
-          "Items you save are stored only in your browser's local storage on your device. They are not sent to Snug. You can remove them at any time from the wishlist, or by clearing your browser's site data.",
-        ],
-      },
-      {
-        heading: "Hosting",
-        paragraphs: [
-          "Like any website, the servers that deliver Snug process technical information such as your IP address and browser type to serve and secure the site. Snug is hosted on Vercel; see Vercel's privacy policy for how it handles this data.",
-        ],
-      },
-      {
-        heading: "Changes",
-        paragraphs: [
-          "This notice covers the preview only. It will be replaced with a full privacy policy before Snug collects any personal data or adds affiliate links.",
-        ],
-      },
-    ],
-  },
+  
+"affiliate-disclosure": {
+  title: "Affiliate Disclosure",
+  description:
+    "Learn how Snug may earn commissions through affiliate partnerships.",
+  interim: true,
+  sections: [
+    {
+      heading: "Our current status",
+      paragraphs: [
+        "Snug is currently a winter-fashion discovery website in public preview. We are not yet participating in any affiliate programme.",
+        "All products, prices, discounts, ratings, and marketplace offers currently displayed are demonstration data. They are not verified listings or live marketplace prices.",
+        "Purchase buttons are disabled, and Snug does not currently earn commissions from website visitors.",
+      ],
+    },
+    {
+      heading: "How affiliate partnerships may work",
+      paragraphs: [
+        "In the future, Snug may participate in affiliate programmes operated by online retailers and affiliate networks.",
+        "When you click an eligible affiliate link and make a qualifying purchase, Snug may receive a commission from the retailer or affiliate programme.",
+        "Affiliate commissions generally do not add a separate fee to your purchase. The retailer determines the final price, availability, delivery charges, and applicable terms.",
+      ],
+    },
+    {
+      heading: "Our approach to product comparisons",
+      paragraphs: [
+        "Snug aims to help visitors discover and compare winter-fashion products from different retailers.",
+        "When real product listings become available, we aim to present prices and offers transparently. Product availability, discounts, and prices may change, so always verify the final details on the retailer's website before purchasing.",
+        "Affiliate relationships may influence which retailers and products Snug can display. We aim to clearly identify sponsored placements and affiliate links when applicable.",
+      ],
+    },
+    {
+      heading: "Retailer independence",
+      paragraphs: [
+        "Snug is an independent product discovery website and does not manufacture, sell, ship, or fulfill products.",
+        "Marketplace names and trademarks belong to their respective owners. Their appearance does not imply sponsorship, endorsement, or partnership unless explicitly stated.",
+      ],
+    },
+    {
+      heading: "Future programme disclosures",
+      paragraphs: [
+        "Before activating affiliate links, Snug will update this disclosure to include the statements required by each participating affiliate programme.",
+        "Affiliate relationships will also be disclosed clearly near relevant recommendations or links where appropriate.",
+      ],
+    },
+    {
+      heading: "Questions or concerns",
+      paragraphs: [
+        "For questions about our affiliate practices or partnerships, contact snug.support.online@gmail.com.",
+      ],
+    },
+  ],
+},
+
+  
+privacy: {
+  title: "Privacy Policy",
+  description: "Learn how Snug handles information during its public preview.",
+  interim: true,
+  sections: [
+    {
+      heading: "Introduction",
+      paragraphs: [
+        "Snug is a winter-fashion product discovery website currently operating in public preview. We respect your privacy and aim to be transparent about how information is handled when you use our website.",
+      ],
+    },
+    {
+      heading: "Information we collect",
+      paragraphs: [
+        "Snug currently does not offer user accounts, registration, or contact forms. We do not intentionally collect personal information through these features.",
+        "If you contact us by email, we receive the email address and information you choose to share so that we can respond to your inquiry.",
+      ],
+    },
+    {
+      heading: "Wishlist and browser storage",
+      paragraphs: [
+        "Your wishlist is stored locally in your browser using local storage. Wishlist information is not sent to Snug's servers. You can remove saved products or clear your browser's site data at any time.",
+      ],
+    },
+    {
+      heading: "Hosting and technical information",
+      paragraphs: [
+        "Snug is hosted on Vercel. Technical information, such as IP addresses, browser details, and request information, may be processed by our hosting provider to deliver, maintain, and secure the website.",
+      ],
+    },
+    {
+      heading: "Analytics and cookies",
+      paragraphs: [
+        "During the current preview, Snug does not intentionally use its own advertising trackers or analytics cookies. If analytics, advertising, or other tracking technologies are introduced, this policy will be updated to explain their use.",
+      ],
+    },
+    {
+      heading: "Affiliate links",
+      paragraphs: [
+        "Snug is not currently enrolled in any affiliate programme. In the future, affiliate links may redirect visitors to third-party retailers. Those retailers may process information under their own privacy policies.",
+        "We will update this policy before introducing affiliate-related tracking or data collection.",
+      ],
+    },
+    {
+      heading: "Data retention and your choices",
+      paragraphs: [
+        "Emails sent to Snug may be retained as needed to respond to inquiries and maintain relevant correspondence. You can request deletion of your correspondence, subject to applicable legal obligations.",
+        "You can manage or delete your locally stored wishlist using your browser settings.",
+      ],
+    },
+    {
+      heading: "Changes to this policy",
+      paragraphs: [
+        "This policy describes Snug's current public preview. It may be updated as new features, services, or data processing activities are introduced.",
+      ],
+    },
+    {
+      heading: "Contact us",
+      paragraphs: [
+        "For privacy-related questions or requests, contact us at snug.support.online@gmail.com.",
+      ],
+    },
+  ],
+},
+
   terms: {
     title: "Terms of use",
     description: "Terms for using the Snug preview.",
@@ -154,17 +223,34 @@ const PAGES: Record<string, InfoPageContent> = {
       },
     ],
   },
-  contact: {
-    title: "Contact",
-    description: "Getting in touch with Snug.",
-    sections: [
-      {
-        paragraphs: [
-          "Snug is in preview, and contact details will be published here before the public launch.",
-        ],
-      },
-    ],
-  },
+  
+contact: {
+  title: "Contact Us",
+  description: "Have a question, suggestion, or partnership inquiry? Get in touch with Snug.",
+  sections: [
+    {
+      heading: "We'd love to hear from you",
+      paragraphs: [
+        "Have questions about Snug, feedback on our website, or a business collaboration idea? We're happy to hear from you.",
+        "Email: snug.support.online@gmail.com",
+      ],
+    },
+    {
+      heading: "Product orders and returns",
+      paragraphs: [
+        "Snug is a winter-fashion product discovery platform currently in preview. We do not sell products or process payments, orders, deliveries, refunds, or returns.",
+        "When shopping features become available, purchases will be completed directly on the retailer's website. For order-related issues, please contact the respective retailer.",
+      ],
+    },
+    {
+      heading: "Business and partnership inquiries",
+      paragraphs: [
+        "For affiliate partnerships, collaborations, or other business inquiries, contact us at snug.support.online@gmail.com.",
+      ],
+    },
+  ],
+},
+
 };
 
 // Only pre-built paths exist, so unknown URLs get a real HTTP 404 (not a streamed 200).
@@ -202,9 +288,25 @@ export default async function InfoPage({ params }: { params: Params }) {
             <section key={section.heading ?? i}>
               {section.heading && <h2 className="font-display text-xl font-bold tracking-tight">{section.heading}</h2>}
               <div className={`space-y-3 leading-relaxed text-navy-900/80 ${section.heading ? "mt-2" : ""}`}>
+                
                 {section.paragraphs.map((p) => (
-                  <p key={p}>{p}</p>
+                  <p key={p}>
+                    {p.split(/(snug\.support\.online@gmail\.com)/g).map((part, index) =>
+                      part === "snug.support.online@gmail.com" ? (
+                        <a
+                          key={index}
+                          href="mailto:snug.support.online@gmail.com"
+                          className="font-semibold text-blue-600 underline underline-offset-4 hover:text-blue-800"
+                        >
+                          {part}
+                        </a>
+                      ) : (
+                        part
+                      )
+                    )}
+                  </p>
                 ))}
+
               </div>
             </section>
           ))}

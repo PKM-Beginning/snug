@@ -14,7 +14,7 @@ const categorySlugs = [...read("src/lib/data/categories.ts").matchAll(/slug: "([
 const banners = [...read("src/lib/assets.ts").matchAll(/^\s*\w+: "([a-z0-9-]+)",$/gm)].map((m) => m[1]);
 
 const groups = [
-  ["Hero", ["/images/hero/snug-hero"]],
+  ["Hero", ["/images/hero/Alpine Sunrise with Cozy Travellers"]],
   ["Banners", banners.map((b) => `/images/banners/${b}`)],
   ["Categories", categorySlugs.map((s) => `/images/categories/${s}`)],
   ["Products", productIds.map((id) => `/images/products/${id}`)],

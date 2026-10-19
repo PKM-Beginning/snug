@@ -34,7 +34,7 @@ export const BANNERS = {
 } as const;
 
 export function heroPhoto(): string | undefined {
-  return findPhoto("/images/hero/snug-hero") ?? undefined;
+  return findPhoto("/images/hero/Alpine Sunrise with Cozy Travellers") ?? undefined;
 }
 
 export function categoryImage(slug: string, fallback: string): string {
