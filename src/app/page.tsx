@@ -1,4 +1,5 @@
-import { Flame, Star, Wallet } from "lucide-react";
+import { BookOpen, ArrowRight, Flame, Star, Wallet } from "lucide-react";
+import Link from "next/link";
 import { Hero } from "@/components/home/Hero";
 import { SectionHeader } from "@/components/home/SectionHeader";
 import { CategoryRail } from "@/components/home/CategoryRail";
@@ -133,8 +134,80 @@ export default async function HomePage() {
         ]}
       />
 
+      
+      {/* Snug Buying Guides */}
+      <section
+        aria-labelledby="guides-heading"
+        className="section"
+      >
+        <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
+          <div>
+            <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-blue-100/80 px-4 py-2 text-xs font-semibold uppercase tracking-wider text-blue-700">
+              <BookOpen className="h-4 w-4" />
+              Snug Style Journal
+            </div>
+
+            <h2
+              id="guides-heading"
+              className="text-2xl font-bold text-navy-900 sm:text-3xl"
+            >
+              Winter Style & Buying Guides
+            </h2>
+
+            <p className="mt-2 text-sm text-navy-900/60 sm:text-base">
+              Smart tips for staying warm, looking good and spending less.
+            </p>
+          </div>
+        </div>
+
+        <Link
+          href="/guides/winter-jackets-under-1500"
+          className="group block overflow-hidden rounded-3xl border border-white/70 bg-white/75 shadow-sm backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
+        >
+          <div className="grid md:grid-cols-5">
+            {/* Editorial visual */}
+            <div className="relative flex min-h-52 items-center justify-center overflow-hidden bg-gradient-to-br from-blue-100 via-indigo-100 to-violet-200 p-8 md:col-span-2">
+              <div className="absolute -right-12 -top-12 h-44 w-44 rounded-full bg-white/30 blur-2xl" />
+              <div className="absolute -bottom-16 -left-12 h-48 w-48 rounded-full bg-blue-400/20 blur-2xl" />
+
+              <div className="relative text-center">
+                <div className="mx-auto mb-5 flex h-20 w-20 items-center justify-center rounded-3xl bg-white/60 shadow-lg backdrop-blur-md">
+                  <BookOpen className="h-10 w-10 text-blue-600" />
+                </div>
+                <span className="rounded-full bg-white/70 px-4 py-2 text-sm font-semibold text-blue-700">
+                  2026 Winter Guide
+                </span>
+              </div>
+            </div>
+
+            {/* Guide content */}
+            <div className="flex flex-col justify-center p-6 sm:p-8 md:col-span-3 lg:p-10">
+              <span className="mb-3 text-xs font-bold uppercase tracking-widest text-blue-600">
+                Winter Shopping Guide
+              </span>
+
+              <h3 className="text-2xl font-bold leading-tight text-navy-900 sm:text-3xl">
+                Best Winter Jackets Under ₹1,500 in India
+              </h3>
+
+              <p className="mt-4 max-w-xl leading-7 text-navy-900/65">
+                Not sure which jacket to buy? Explore fleece,
+                padded jackets, windcheaters and practical tips
+                for choosing warmth, comfort and value on a budget.
+              </p>
+
+              <div className="mt-6 inline-flex items-center gap-2 font-semibold text-blue-600 transition-all group-hover:gap-3">
+                Read Buying Guide
+                <ArrowRight className="h-5 w-5" />
+              </div>
+            </div>
+          </div>
+        </Link>
+      </section>
+
       <HowItWorks />
       <TrustSection />
+
     </>
   );
 }
