@@ -1,11 +1,17 @@
 
 import Link from "next/link";
 
+
 export const metadata = {
-  title: "Best Winter Jackets Under ₹1,500 in India (2026) | Snug",
+  title: "How to Choose Winter Jackets Under ₹1,500 in India (2026)",
   description:
-    "A practical guide to choosing winter jackets under ₹1,500 in India. Compare materials, warmth, fit and useful features before buying.",
+    "Learn how to choose winter jackets under ₹1,500 in India. Compare fleece, padded jackets, insulation, fit and essential features.",
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
+
 
 const tips = [
   {
@@ -67,7 +73,7 @@ export default function WinterJacketsGuide() {
         </p>
 
         <h1 className="max-w-3xl text-3xl font-bold leading-tight text-slate-900 sm:text-5xl">
-          Best Winter Jackets Under ₹1,500 in India (2026)
+          How to Choose Winter Jackets Under ₹1,500 in India (2026)
         </h1>
 
         <p className="mt-5 max-w-3xl text-lg leading-8 text-slate-600">
