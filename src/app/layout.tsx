@@ -22,6 +22,9 @@ export const metadata: Metadata = {
     template: "%s · Snug",
   },
   applicationName: "Snug",
+    verification: {
+    google: "aYUJRDwUVYNPvAPZB4AsIBrw3-h1_DfU0xPT6vjaZKY",
+  },
   description: DESCRIPTION,
   keywords: ["winter fashion", "winter jackets", "hoodies", "sweaters", "price comparison India"],
   alternates: { canonical: "/" },
