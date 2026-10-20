@@ -14,7 +14,7 @@ import { PageHeader } from "@/components/layout/PageHeader";
  *   - Affiliate disclosure: the exact wording each approved programme requires.
  */
 
-const LAST_UPDATED = "18 October 2026";
+const LAST_UPDATED = "20 October 2026";
 
 interface Section {
   heading?: string;
@@ -193,36 +193,115 @@ privacy: {
   ],
 },
 
+  
   terms: {
-    title: "Terms of use",
-    description: "Terms for using the Snug preview.",
+    title: "Terms of Use",
+    description:
+      "Understand the terms for accessing and using Snug during its public preview.",
     interim: true,
     sections: [
       {
+        heading: "About Snug",
         paragraphs: [
-          "Snug is currently a preview provided for demonstration and testing. By using it, you accept these interim terms.",
+          "Snug is an independently operated winter-fashion discovery and price-comparison project based in India. It is currently in public preview and is not incorporated as a company.",
+          "These Terms of Use explain the conditions for accessing and using the Snug website. By using the website, you agree to these terms. If you do not agree, please discontinue use.",
         ],
       },
       {
-        heading: "No sales or offers",
+        heading: "Preview website and demonstration data",
         paragraphs: [
-          "Snug does not sell products. All products, prices, discounts, ratings and store offers shown in the preview are demonstration data. They are not offers to sell and do not reflect real listings or prices.",
+          "Snug is currently a demonstration website. All displayed products, brands, prices, discounts, ratings, reviews, and marketplace offers are illustrative data used to develop and test the platform.",
+          "These listings are not verified commercial offers, and Snug does not currently provide purchasing functionality.",
+          "Features and content may be modified, suspended, or removed as the website develops.",
         ],
       },
       {
-        heading: "No affiliation",
+        heading: "No direct sales or payments",
         paragraphs: [
-          "Marketplace names and trademarks belong to their respective owners. Their appearance in the preview does not mean they are affiliated with, sponsor or endorse Snug.",
+          "Snug does not currently sell products, process payments, accept orders, arrange deliveries, or handle refunds and returns.",
+          "If shopping features are introduced in the future, purchases will be completed on third-party retailers' websites, subject to their own terms and policies.",
         ],
       },
       {
-        heading: "As-is",
+        heading: "Product information and pricing",
         paragraphs: [
-          "The preview is provided as-is, without warranties of any kind, and may change or be taken offline at any time.",
+          "Product information shown during the preview must not be relied upon as an actual marketplace listing or current price.",
+          "When verified retailer information becomes available, Snug will aim to present it accurately. However, prices, availability, shipping charges, and promotional conditions may change.",
+          "Visitors should independently verify product details and final prices with the relevant retailer before purchasing.",
+        ],
+      },
+      {
+        heading: "Affiliate relationships",
+        paragraphs: [
+          "Snug is not currently participating in an affiliate programme and does not earn commissions through its preview product listings.",
+          "Snug may introduce affiliate links in the future. Any applicable commercial relationships will be disclosed in accordance with relevant requirements.",
+          "Additional information is available in Snug's Affiliate Disclosure page.",
+        ],
+      },
+      {
+        heading: "Acceptable use",
+        paragraphs: [
+          "You agree to use Snug only for lawful purposes and not to interfere with the website's security, operation, or availability.",
+          "You must not attempt unauthorized access to website systems, distribute malicious software through the website, or misuse its functionality.",
+        ],
+      },
+      {
+        heading: "Intellectual property",
+        paragraphs: [
+          "Original website designs, written content, branding elements, and other materials created for Snug may be protected by applicable intellectual property laws.",
+          "You may access website content for personal, non-commercial use. You must not reproduce or commercially redistribute original Snug materials without permission, except where permitted by law.",
+          "Third-party names, logos, trademarks, and other materials remain the property of their respective owners. Their appearance does not imply endorsement or affiliation.",
+        ],
+      },
+      {
+        heading: "External websites",
+        paragraphs: [
+          "Snug may provide links to third-party websites or services. Such websites are operated independently and may have different terms, privacy policies, and business practices.",
+          "Snug does not control third-party websites and is not responsible for their independent content or services, subject to applicable law.",
+        ],
+      },
+      {
+        heading: "Availability and warranties",
+        paragraphs: [
+          "Snug is provided on an as-available basis during its public preview. We aim to maintain a useful and reliable website but cannot guarantee uninterrupted access or error-free operation.",
+          "To the extent permitted by applicable law, Snug makes no additional warranties concerning the availability, completeness, or suitability of its preview content.",
+        ],
+      },
+      {
+        heading: "Limitation of liability",
+        paragraphs: [
+          "To the extent permitted by applicable law, the operator of Snug will not be liable for indirect or consequential losses arising from reliance on demonstration content or temporary website unavailability.",
+          "Nothing in these terms excludes or limits liability that cannot lawfully be excluded or limits rights available under applicable consumer protection laws.",
+        ],
+      },
+      {
+        heading: "Privacy",
+        paragraphs: [
+          "Information about the handling of personal data, browser storage, and communications is available in Snug's Privacy Policy.",
+        ],
+      },
+      {
+        heading: "Changes to these terms",
+        paragraphs: [
+          "These terms may be updated as Snug develops new features, introduces retailer integrations, or changes its operating structure.",
+          "Material changes will be reflected on this page, including an updated revision date. Continued use after revised terms become effective constitutes acceptance to the extent permitted by law.",
+        ],
+      },
+      {
+        heading: "Applicable law",
+        paragraphs: [
+          "These terms are governed by the applicable laws of India. Any dispute-resolution arrangements remain subject to mandatory legal rights and applicable jurisdiction rules.",
+        ],
+      },
+      {
+        heading: "Contact",
+        paragraphs: [
+          "For questions about these terms or the Snug website, contact snug.support.online@gmail.com.",
         ],
       },
     ],
   },
+
   
 contact: {
   title: "Contact Us",
